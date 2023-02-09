@@ -1,25 +1,25 @@
 const set0 = {
     "x": 15,
     "y": 476,
-    "pass": "FCYROXHTGE"
+    "pass": "BFCYRXHTGE"
 }
 
 const set1 = {
     "x": 9,
     "y": 461,
-    "pass": "BFHEGxwYX"
+    "pass": "BFHEGxrwYX"
 }
 
 const set2 = {
     "x": 15,
     "y": 512,
-    "pass": "FCYROXHTGE"
+    "pass": "BFCYRXHTGE"
 }
 
 const set3 = {
-    "x": 28,
+    "x": 26,
     "y": 492,
-    "pass": "BFHEGxwYX"
+    "pass": "BFHEGxrwYX"
 }
 
 const getAnswer = async (req, res) => {
